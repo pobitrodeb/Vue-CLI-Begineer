@@ -18,5 +18,6 @@ export default({
 <style scoped>
     .contact-info{
         color: red;
+        font-size: 75px;
     }
 </style>
