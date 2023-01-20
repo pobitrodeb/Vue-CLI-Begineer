@@ -10,7 +10,19 @@
 <script>
 
 export default({
-    props: ['name', 'websiteAddress', 'mobileNumber'],
+    // props: ['name', 'websiteAddress', 'mobileNumber'],
+    props: {
+        name: String, 
+        websiteAddress: {
+            type: String, 
+            required: true, 
+        },
+        mobileNumber: {
+            type: String, 
+            required: false, 
+            defult: "017892151215",
+        },
+    },
     data() {
         
         // return {

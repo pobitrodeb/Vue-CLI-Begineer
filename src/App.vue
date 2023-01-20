@@ -15,7 +15,7 @@
    <contact-details
     name="Anup "
     website-address="www.anup.com"
-    mobile-nmber ="0721521231"
+    mobile-nmber =""
    > </contact-details>
 
 </template>
