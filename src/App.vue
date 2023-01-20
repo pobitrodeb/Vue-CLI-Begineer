@@ -18,6 +18,8 @@
     mobile-nmber =""
    > </contact-details>
 
+   <the-cards></the-cards>
+
 </template>
 
 <script>
